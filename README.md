@@ -1,6 +1,10 @@
 # Halacha research
 
-This private repository preserves two shared conversations about electricity on Shabbat and the general-purpose Meqorist research and review assistant.
+This repository preserves two shared conversations about electricity on Shabbat, the general-purpose Meqorist research and review assistant, and source-based research on Jewish learning and practice.
+
+## Research
+
+- [How weekly parsha study developed](research/weekly-parsha-history/transcript.md) — an original lecture script for approximately one hour of audio, tracing public reading, annual and multiyear cycles, personal review, and commentary study. The [source notes](research/weekly-parsha-history/sources.md) distinguish explicit Gemara statements, other Chazal, later interpretation, and historical limits.
 
 ## Conversations
 
